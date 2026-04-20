@@ -27,7 +27,7 @@ With a cybersecurity background, I approach development with attention to securi
 
 ## 🔧 Technologies
 
-* **Languages:** Python
+* **Languages:** Python, Java, Javascript
 * **Backend:** FastAPI
 * **Database:** PostgreSQL
 * **ORM:** SQLAlchemy
