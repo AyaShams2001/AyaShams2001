@@ -22,7 +22,7 @@ With a cybersecurity background, I approach development with attention to securi
 | Project                                                        | Description                                                                                                                   |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [Bookshelf API](https://github.com/AyaShams2001/bookshelf-api) | RESTful API built with **FastAPI + PostgreSQL + SQLAlchemy**, supporting CRUD operations, filtering, and search functionality |
-
+| [Task Manager API](https://github.com/AyaShams2001/task-manager-api) | Backend API built with **FastAPI + JWT Authentication + SQLAlchemy**, supporting user registration, login, and user-specific task management |
 ---
 
 ## 🔧 Technologies
