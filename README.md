@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aya Shams
 
-*Backend Developer | Cybersecurity Background | Building Secure & Scalable APIs*
+*Backend Developer | Cybersecurity Background | Building Scalable APIs*
 
-I focus on backend development with an emphasis on designing clean, scalable systems and understanding how APIs connect different components.
+I focus on backend development, building clean and reliable APIs while understanding how systems interact end-to-end.  
 With a cybersecurity background, I approach development with attention to security, edge cases, and system behavior.
 
 ---
@@ -10,68 +10,47 @@ With a cybersecurity background, I approach development with attention to securi
 ## 🧰 Technical Highlights
 
 * 🛠️ Built REST APIs using **FastAPI**, **SQLAlchemy**, and **PostgreSQL**
-* 🗄️ Designed database-backed applications with proper schema and query handling
-* ☁️ Deployed backend services using **Render (cloud platform)**
-* 🔐 CompTIA Security+ certified with strong understanding of security fundamentals
-* 🔄 Version control and collaboration using **Git & GitHub**
+* 🐳 Containerized applications using **Docker**
+* 🔄 Implemented CI/CD pipelines with **GitHub Actions** to build and push Docker images to **Docker Hub**
+* ☁️ Deployed containerized services on **Render** with automated redeployments
+* 🔐 CompTIA Security+ certified with strong security fundamentals
+* 🗄️ Designed database-backed systems with structured schemas and queries
 
 ---
 
 ## 🔗 Projects
 
-| Project                                                        | Description                                                                                                                   |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [Bookshelf API](https://github.com/AyaShams2001/bookshelf-api) | RESTful API built with **FastAPI + PostgreSQL + SQLAlchemy**, supporting CRUD operations, filtering, and search functionality |
-| [Task Manager API](https://github.com/AyaShams2001/task-manager-api) | Backend API built with **FastAPI + JWT Authentication + SQLAlchemy**, supporting user registration, login, and user-specific task management |
+| Project | Description |
+|--------|------------|
+| [Bookshelf API](https://github.com/AyaShams2001/bookshelf-api) | Containerized FastAPI backend with PostgreSQL, CI/CD pipeline, and automated deployment on Render |
+| [Task Manager API](https://github.com/AyaShams2001/task-manager-api) | FastAPI backend with JWT authentication, user-based task management, and database integration |
+
 ---
 
 ## 🔧 Technologies
 
-* **Languages:** Python, Java, Javascript
-* **Backend:** FastAPI
-* **Database:** PostgreSQL
-* **ORM:** SQLAlchemy
-* **Tools:** Git, GitHub
-* **Cloud:** Render
-* **Currently Exploring:** Docker, Kubernetes, Linux
-
----
-
-## 🚧 Currently Building
-
-* Expanding backend systems with more structured architecture
-* Learning containerization with Docker
-* Improving database design and API performance
+* **Languages:** Python, Java, JavaScript  
+* **Backend:** FastAPI  
+* **Database:** PostgreSQL  
+* **ORM:** SQLAlchemy  
+* **DevOps:** Docker, GitHub Actions, Docker Hub  
+* **Tools:** Git, GitHub  
+* **Cloud:** Render  
 
 ---
 
 ## 🎯 Direction
 
-Working toward becoming a backend engineer with strong system design skills, while gradually integrating security into development workflows (DevSecOps path).
+Working toward backend engineering roles with a focus on scalable systems and gradually integrating security into development workflows (DevSecOps path).
 
 ---
 
 ## 📫 Contact
 
-* Email: [ayashams42@yahoo.com](mailto:ayashams42@yahoo.com)
-* GitHub: https://github.com/AyaShams2001
-* Linkedin: www.linkedin.com/in/ayashams
+* Email: [ayashams42@yahoo.com](mailto:ayashams42@yahoo.com)  
+* GitHub: https://github.com/AyaShams2001  
+* LinkedIn: https://www.linkedin.com/in/ayashams  
 
 ---
 
-*This profile is continuously evolving as I build and refine my skills.*
-
-<!--
-**AyaShams2001/AyaShams2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Continuously building and refining backend and DevOps skills.*
